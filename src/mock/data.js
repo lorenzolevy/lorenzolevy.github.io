@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'My journey as a developer began as UX researcher struggling to use python to arrange images and use SDKs so robots would behave properly in studies. I found love for finally solving that problem, or cleaning a console of errors.',
   paragraphTwo: 'After graduating, I knew I wanted to be involved in building products rather than researching interactions with them, so I began making products for individuals and businesses. Below are some projects that I am proud of.',
   paragraphThree: `When I'm not strapped into my chair with extra lumbar support, I enjoy teaching my cat new tricks and attempting to make songs in abelton with my partner.`,
-  resume: './LL_resumeV7.pdf', // if no resume, the button will not show up
+  resume: './LL_resumeV10.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'Ali Sene Art Portfolio',
     info: 'Tech: GatsbyJS, SASS modules, GraphQL',
     info2: 'Working with Ali Sene was a wonderful opportunity to use JAM stack with a stakeholder to take advantage of the speed, security, and potential SEO enhancements offerred by Gatsby. Ali and I worked together to create an online art portfolio, which resulted in an increase in her bids and eventual employment as a graphic designer.',
-    url: 'https://aliseneart.com/',
+    url: 'https://aliseneart.live/',
     repo: 'https://github.com/lorenzolevy/ali-sene', // if no repo, the button will not show up
   },
 ];
